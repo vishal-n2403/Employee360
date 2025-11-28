@@ -2,7 +2,8 @@
 
 <div align="center">
 
-[![Live Demo](https://img.shields.io/badge/demo-live-success?style=for-the-badge&logo=vercel)](https://devemployee360.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/demo-live-success?style=for-the-badge&logo=vercel)](https://vishalemployee360.vercel.app/)
+[![Use App](https://img.shields.io/badge/Use_App-Visit_Now-4F46E5?style=for-the-badge&logo=vercel&logoColor=white)](https://vishalemployee360.vercel.app/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/cloud/atlas)
 [![React](https://img.shields.io/badge/React-18.3-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-22.x-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
@@ -10,7 +11,7 @@
 
 **A modern, full-stack employee management system with real-time analytics and task tracking**
 
-[Live Demo](https://devemployee360.vercel.app/) • [Report Bug](https://github.com/vishal-n2403/Employee360/issues) • [Request Feature](https://github.com/vishal-n2403/Employee360/issues)
+[🚀 Use App](https://vishalemployee360.vercel.app/) • [📊 Live Demo](https://vishalemployee360.vercel.app/) • [🐛 Report Bug](https://github.com/vishal-n2403/Employee360/issues) • [✨ Request Feature](https://github.com/vishal-n2403/Employee360/issues)
 
 </div>
 
@@ -59,14 +60,20 @@
 
 ## 📸 Screenshots
 
+### Login
+![Login](https://drive.google.com/uc?export=view&id=1h_yjXyHkYk5qJjRr9xaZWr2SXpOZn1Gl)
+
+### Register
+![Register](https://drive.google.com/uc?export=view&id=1C84fplV0w3pju3uCG3jMN0LCvXCNV10t)
+
 ### Dashboard
-![Dashboard](https://via.placeholder.com/800x450/1e293b/ffffff?text=Dashboard+Analytics)
+![Dashboard](https://drive.google.com/uc?export=view&id=1tAYjRwgI50qzCkb9tGtDLxboJHv7tk50)
 
 ### Employee Management
-![Employees](https://via.placeholder.com/800x450/1e293b/ffffff?text=Employee+Management)
+![Employees](https://drive.google.com/uc?export=view&id=1W3nBNpMGuzHheYLOxGtT889HfqVsJaww)
 
 ### Task Tracking
-![Tasks](https://via.placeholder.com/800x450/1e293b/ffffff?text=Task+Tracking)
+![Tasks](https://drive.google.com/uc?export=view&id=1PJtdZqo5M7WA9von_VwBhmo7vyEXFuoU)
 
 ---
 
@@ -235,7 +242,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Vishal N**
 
 - GitHub: [@vishal-n2403](https://github.com/vishal-n2403)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- LinkedIn: [@vishal-n2403](https://www.linkedin.com/in/vishal-n2403)
 
 ---
 
